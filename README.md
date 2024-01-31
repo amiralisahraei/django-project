@@ -16,3 +16,5 @@ To run server:
 ```bash
   python manage.py runserver
 ```
+[Screencast from 01-31-2024 10:42:51 PM.webm](https://github.com/amiralisahraei/django-project/assets/63749202/c3e19119-c580-4540-bf0f-7959cb66c159)
+
